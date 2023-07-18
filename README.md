@@ -14,12 +14,12 @@ To use the To-Do List app, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/to-do-list.git
+   git clone https://github.com/Goblin-code/To-Do-List.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd to-do-list
+   cd To-Do-List
    ```
 
 3. Open the `index.html` file in your preferred web browser.
