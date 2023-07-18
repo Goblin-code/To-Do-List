@@ -100,7 +100,11 @@ ul li span:hover{
 
 @media (max-width: 500px){
     .app{
-        width: 370px;
+        width: 320px;
+    }
+    .row input{
+        padding: 10px;
+        font-size: 16px;
     }
     .row button{
         padding: 12px 24px;
