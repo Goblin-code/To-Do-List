@@ -111,4 +111,7 @@ ul li span:hover{
         margin-left: -40px;
         font-size: 13px;
     }
+    .row{
+        padding: 0px;
+    }
 }
